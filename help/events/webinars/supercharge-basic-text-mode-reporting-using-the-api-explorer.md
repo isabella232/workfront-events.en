@@ -26,8 +26,7 @@ listdelimiter=<p>
 listmethod=nested(userRoles).lists
 textmode=true
 type=iterate
-valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",
-{role}.{name}),{role}.{name})
+valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}),{role}.{name})
 valueformat=HTML
 ```
 
