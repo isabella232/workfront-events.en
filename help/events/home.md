@@ -20,11 +20,11 @@ Here at Adobe Workfront Events you can browse our video library to see what expe
 <table>
   <tr>
    <td>
-      <a href="elp/events/user-groups/workfront-system-maintenance.mdd">
-      <img alt="Workfront System Maintenance" src="assets/workfront-system-maintenance.png"/>
+      <a href="/help/events/user-groups/workfront-system-maintenance.md">
+      <img alt="Workfront System Maintenance" src="./assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="help/events/user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
+         <a href="/help/events/user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -34,7 +34,7 @@ Here at Adobe Workfront Events you can browse our video library to see what expe
     </td>
    <td>
       <a href="/help/events/user-groups/reporting-and-dashboards.md">
-      <img alt="Reporting & Dashboards" src="./assets/reporting-and-dashboards.png"/>
+      <img alt="Reporting and Dashboards" src="./assets/reporting-and-dashboards.png"/>
       </a>
       <div>
          <a href="/help/events/user-groups/reporting-and-dashboards.md"><strong>Reporting & Dashboards</strong></a>
@@ -46,7 +46,7 @@ Here at Adobe Workfront Events you can browse our video library to see what expe
       </p>
     </td>
    <td>
-      <a href="/help/events/user-groups/agile-in-marketing.md.md">
+      <a href="/help/events/user-groups/agile-in-marketing.md">
       <img alt="Agile in Marketing" src="./assets/agile-in-marketing.png"/>
       </a>
       <div>
