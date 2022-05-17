@@ -20,11 +20,11 @@ Here at Adobe Workfront Events you can browse our video library to see what expe
 <table>
   <tr>
    <td>
-      <a href="/help/events/analytics/jun2021/getting-started.md">
-      <img alt="System Admin Essentials" src="assets/workfront-system-maintenance.png"/>
+      <a href="elp/events/user-groups/workfront-system-maintenance.mdd">
+      <img alt="Workfront System Maintenance" src="assets/workfront-system-maintenance.png"/>
       </a>
       <div>
-         <a href="/help/events/analytics/jun2021/getting-started.md"><strong>Workfront System Maintenance</strong></a>
+         <a href="help/events/user-groups/workfront-system-maintenance.md"><strong>Workfront System Maintenance</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -50,7 +50,7 @@ Here at Adobe Workfront Events you can browse our video library to see what expe
       <img alt="Agile in Marketing" src="./assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="/help/events/workfront/apr2022/ten-tips.md"><strong>Agile in Marketing</strong></a>
+         <a href="/help/events/user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
