@@ -2,6 +2,7 @@
 user-guide-title: Adobe Workfront Events
 breadcrumb-title: Workfront Events
 user-guide-description: Adobe Workfront Events
+feature-set: Workfront
 ---
 
 # Adobe Workfront Events {#events}
